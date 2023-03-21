@@ -1,0 +1,1904 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should switch between pages 1`] = `
+<ul
+  class="book-list"
+  data-testid="book-list"
+>
+  <li
+    class="book-card"
+    data-testid="k1HXUT0Zydg"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=pideEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Cees Dekker, 
+        Corien Oranje, 
+        Gijsbert van den Brink
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="qkXyKp0aka0"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=CQxSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Juvenile Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        My Butt is SO SILLY!
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn McMillan, 
+        Ross Kinnaird
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="mXl88Jdym0I"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=9xkQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Social Science
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Everything
+      </h3>
+      <p
+        class="details__text"
+      >
+        David Graeber, 
+        David Wengrow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="PPiZxfWZ8mA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=X8gZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        History
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Everything
+      </h3>
+      <p
+        class="details__text"
+      >
+        David Graeber, 
+        David Wengrow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="hRZ9h+SYJtM"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=rYQeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        History
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Language
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sverker Johansson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="L6Jeo3np1Ak"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=Cv4CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Spin the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Elizabeth Lim
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="sgzcScGFxP0"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=pB8ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Education
+      </p>
+      <h3
+        class="details__text"
+      >
+        Making Every RE Lesson Count
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Cox, 
+        Louise Hutton
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="oLfNU7E3qTc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=AsIXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Dance
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dance Appreciation
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Davis Loring, 
+        Julie L. Pentz
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="GyIbr+7nn2E"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=aH_pzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Ben Levin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="4I2reQJjt80"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=YSRpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        What I Never Told You
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Goodwin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="37dL8MHrurc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=DdFWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Before the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        John Taine
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="wXaN2VtM7Vc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=XET2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn Study
+      </h3>
+      <p
+        class="details__text"
+      >
+        Maria V. Snyder
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="Tyfk2a1lYWA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=CMfbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Shadow Box of Scars
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn T. Fawling
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="R9NZrG6EvIg"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=eswAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Tower of Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sarah J. Maas
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="srVUd9WtHFE"
+  >
+    <div
+      class="book-card__placeholder--cover"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        When Morning Comes
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Wolfik
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="hoAIcCeJyCk"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=ocz9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Comics
+      </p>
+      <h3
+        class="details__text"
+      >
+        Horizon Zero Dawn #3
+      </h3>
+      <p
+        class="details__text"
+      >
+        Anne Toole
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="LeAxwyjcKtE"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=-CnxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Poetry
+      </p>
+      <h3
+        class="details__text"
+      >
+        Here at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Beau Taplin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="b2M1hL7k8TQ"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=h-jsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn Chorus
+      </h3>
+      <p
+        class="details__text"
+      >
+        Samantha Shannon
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="fBmztjbWDjI"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=taPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn of Dae
+      </h3>
+      <p
+        class="details__text"
+      >
+        RJ Blain, 
+        Trillian Anderson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="wDjjWztY0gw"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=8kuwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Jannath Fazli, 1st
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="drlM8kQfvFQ"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=aRB2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Spin the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Elizabeth Lim
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="qFGpehfSoFk"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=WQtvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Biography
+      </p>
+      <h3
+        class="details__text"
+      >
+        Alone at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dan Schilling, 
+        Lori Longfritz
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="9GxlBYRUJ8w"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=McXhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Comics
+      </p>
+      <h3
+        class="details__text"
+      >
+        Barcelona at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Juan Antonio de Blas
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="1XJvOWZUvak"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=cDFfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Josephine Akhagbeme
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="k6HTzZepOGc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=homCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Social Science
+      </p>
+      <h3
+        class="details__text"
+      >
+        Mothering While Black
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Marie Dow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="aclbaCmT/eY"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=bLF1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Religion
+      </p>
+      <h3
+        class="details__text"
+      >
+        A New Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        A.D. Summers
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="nXrANbAnt3s"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=g7hjzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Break of Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Ali Khan Mahmudabad
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="40WJGwoNPNY"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=3Y8YzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of the Coven
+      </h3>
+      <p
+        class="details__text"
+      >
+        Alexis Henderson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="WXknTgJuqLo"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=QsomzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Jorge Ontiveros
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="EzV8uDUWNSA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=h8k5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Blink
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sasha Dawn
+      </p>
+    </article>
+  </li>
+</ul>
+`;
+
+exports[`should switch between pages 2`] = `
+<article
+  class="book-page"
+  data-testid="book-page"
+>
+  <img
+    alt="Book cover"
+    class="cover book-page__cover"
+    height="350"
+    src="http://books.google.com/books/content?id=pideEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    width="233"
+  />
+  <article
+    class="book-details"
+  >
+    <p
+      class="book-details__categories book-details__text"
+    >
+      Fiction / Classic / etc
+    </p>
+    <h2
+      class="book-details__title book-details__text"
+    >
+      Dawn
+    </h2>
+    <p
+      class="book-details__authors book-details__text"
+    >
+      Cees Dekker, 
+      Corien Oranje, 
+      Gijsbert van den Brink
+    </p>
+    <p
+      class="book-details__description book-details__text"
+    >
+      Discover the wonder of the cosmos as you follow the journey of one proton from the beginning of creation all the way through history to today. Combining mind-bending scientific knowledge with storytelling and insights from theology, this gripping narrative provides a fresh look at cosmology, evolutionary biology, and the good news of God.
+    </p>
+  </article>
+</article>
+`;
+
+exports[`should switch between pages 3`] = `
+<ul
+  class="book-list"
+  data-testid="book-list"
+>
+  <li
+    class="book-card"
+    data-testid="k1HXUT0Zydg"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=pideEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Cees Dekker, 
+        Corien Oranje, 
+        Gijsbert van den Brink
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="qkXyKp0aka0"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=CQxSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Juvenile Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        My Butt is SO SILLY!
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn McMillan, 
+        Ross Kinnaird
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="mXl88Jdym0I"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=9xkQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Social Science
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Everything
+      </h3>
+      <p
+        class="details__text"
+      >
+        David Graeber, 
+        David Wengrow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="PPiZxfWZ8mA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=X8gZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        History
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Everything
+      </h3>
+      <p
+        class="details__text"
+      >
+        David Graeber, 
+        David Wengrow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="hRZ9h+SYJtM"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=rYQeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        History
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of Language
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sverker Johansson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="L6Jeo3np1Ak"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=Cv4CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Spin the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Elizabeth Lim
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="sgzcScGFxP0"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=pB8ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Education
+      </p>
+      <h3
+        class="details__text"
+      >
+        Making Every RE Lesson Count
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Cox, 
+        Louise Hutton
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="oLfNU7E3qTc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=AsIXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Dance
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dance Appreciation
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Davis Loring, 
+        Julie L. Pentz
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="GyIbr+7nn2E"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=aH_pzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Ben Levin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="4I2reQJjt80"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=YSRpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        What I Never Told You
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Goodwin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="37dL8MHrurc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=DdFWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Before the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        John Taine
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="wXaN2VtM7Vc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=XET2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn Study
+      </h3>
+      <p
+        class="details__text"
+      >
+        Maria V. Snyder
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="Tyfk2a1lYWA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=CMfbzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Shadow Box of Scars
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn T. Fawling
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="R9NZrG6EvIg"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=eswAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Tower of Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sarah J. Maas
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="srVUd9WtHFE"
+  >
+    <div
+      class="book-card__placeholder--cover"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        When Morning Comes
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Wolfik
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="hoAIcCeJyCk"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=ocz9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Comics
+      </p>
+      <h3
+        class="details__text"
+      >
+        Horizon Zero Dawn #3
+      </h3>
+      <p
+        class="details__text"
+      >
+        Anne Toole
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="LeAxwyjcKtE"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=-CnxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Poetry
+      </p>
+      <h3
+        class="details__text"
+      >
+        Here at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Beau Taplin
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="b2M1hL7k8TQ"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=h-jsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn Chorus
+      </h3>
+      <p
+        class="details__text"
+      >
+        Samantha Shannon
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="fBmztjbWDjI"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=taPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn of Dae
+      </h3>
+      <p
+        class="details__text"
+      >
+        RJ Blain, 
+        Trillian Anderson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="wDjjWztY0gw"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=8kuwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Jannath Fazli, 1st
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="drlM8kQfvFQ"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=aRB2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Spin the Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Elizabeth Lim
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="qFGpehfSoFk"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=WQtvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Biography
+      </p>
+      <h3
+        class="details__text"
+      >
+        Alone at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dan Schilling, 
+        Lori Longfritz
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="9GxlBYRUJ8w"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=McXhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Comics
+      </p>
+      <h3
+        class="details__text"
+      >
+        Barcelona at Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Juan Antonio de Blas
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="1XJvOWZUvak"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=cDFfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="placeholder"
+      />
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Josephine Akhagbeme
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="k6HTzZepOGc"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=homCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Social Science
+      </p>
+      <h3
+        class="details__text"
+      >
+        Mothering While Black
+      </h3>
+      <p
+        class="details__text"
+      >
+        Dawn Marie Dow
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="aclbaCmT/eY"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=bLF1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Religion
+      </p>
+      <h3
+        class="details__text"
+      >
+        A New Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        A.D. Summers
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="nXrANbAnt3s"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=g7hjzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Break of Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Ali Khan Mahmudabad
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="40WJGwoNPNY"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=3Y8YzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        The Dawn of the Coven
+      </h3>
+      <p
+        class="details__text"
+      >
+        Alexis Henderson
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="WXknTgJuqLo"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=QsomzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Dawn
+      </h3>
+      <p
+        class="details__text"
+      >
+        Jorge Ontiveros
+      </p>
+    </article>
+  </li>
+  <li
+    class="book-card"
+    data-testid="EzV8uDUWNSA"
+  >
+    <img
+      alt="Book cover"
+      class="cover"
+      height="192"
+      src="http://books.google.com/books/content?id=h8k5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      width="128"
+    />
+    <article
+      class="details"
+    >
+      <p
+        class="details__text"
+      >
+        Young Adult Fiction
+      </p>
+      <h3
+        class="details__text"
+      >
+        Blink
+      </h3>
+      <p
+        class="details__text"
+      >
+        Sasha Dawn
+      </p>
+    </article>
+  </li>
+</ul>
+`;

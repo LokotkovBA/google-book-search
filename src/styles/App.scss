@@ -1,0 +1,119 @@
+#root {
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    border-radius: 1em;
+    font-weight: 500;
+    outline: none;
+    background-color: var(--search-bar-color);
+
+    &--load-more {
+        margin-bottom: 1em;
+    }
+}
+
+.text-element {
+    font-size: 1em;
+    font-family: inherit;
+}
+
+.spinner {
+    margin: 2rem auto;
+    border: 1rem solid var(--search-bar-color);
+    border-top: 1rem solid var(--card-color);
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+}
+
+.cover {
+    box-shadow: .5em .5em 20px var(--shadow-color);
+}
+
+.placeholder {
+    height: 2ch;
+}
+
+.error {
+    color: var(--error-color);
+}
+
+.search {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: .5em;
+    justify-items: center;
+    width: fit-content;
+    margin: 0 auto;
+
+    &__h1 {
+        cursor: pointer;
+    }
+
+    &__params {
+        display: grid;
+        gap: .3em;
+        grid-template-columns: .8fr 1fr;
+    }
+}
+
+.search-bar {
+    grid-column: 1/-1;
+    display: flex;
+    border-radius: 2em;
+    border: solid 2px var(--search-bar-color);
+
+
+    &:focus-within {
+        border: solid 2px var(--text-color);
+    }
+
+
+    &__input {
+        padding: 1em;
+        background-color: var(--search-bar-color);
+        color: var(--text-color);
+        border-radius: 2em 0 0 2em;
+        border: none;
+    }
+
+    &__button {
+        border-radius: 0 2em 2em 0;
+        background-color: var(--search-bar-color);
+    }
+}
+
+.search-icon {
+    fill: var(--text-color);
+}
+
+@media screen and (width < 900px) {
+    .search {
+        &__params {
+            grid-template-columns: 1fr;
+        }
+    }
+}
+
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .spinner {
+        animation: spin infinite 2s linear;
+    }
+}

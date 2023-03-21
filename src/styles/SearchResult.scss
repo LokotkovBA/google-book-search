@@ -1,0 +1,46 @@
+.book-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    padding: 0;
+}
+
+.book-card {
+    background-color: var(--card-color);
+    border-radius: 1em;
+    padding: 1em;
+    width: 33ch;
+    cursor: pointer;
+    transition: all .2s linear;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2em;
+
+    &:hover {
+        box-shadow: 1em .5em 10px var(--shadow-color);
+        transform: scale(1.1)
+    }
+
+    &__placeholder {
+        &--cover {
+            height: 192px;
+            width: 128px;
+        }
+    }
+}
+
+.details {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+
+    &__text {
+        margin: 0;
+    }
+}

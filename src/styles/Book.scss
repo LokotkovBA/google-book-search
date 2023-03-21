@@ -1,0 +1,57 @@
+.book-page {
+    background-color: var(--card-color);
+    border-radius: 2em;
+    margin-top: 2em;
+    display: grid;
+    grid-template-columns: .9fr 1fr;
+    justify-items: center;
+    align-items: start;
+
+    &__cover {
+        margin: 3em;
+    }
+
+    &__placeholder {
+        &--cover {
+            width: 233px;
+            height: 350px;
+        }
+    }
+}
+
+.book-details {
+    border-radius: 0 2em 2em 0;
+    padding: 2em;
+    background-color: var(--search-bar-color);
+    min-width: 100%;
+    max-width: 60ch;
+    height: 100%;
+    text-align: left;
+
+    &__text {
+        padding: 0 1.5rem;
+    }
+
+    &__description {
+        border-radius: 2em;
+        padding: 1.5rem;
+        background-color: var(--background-color);
+        min-height: 10ch;
+    }
+}
+
+
+@media screen and (width < 900px) {
+    .book-page {
+        grid-template-columns: 1fr;
+
+        &__cover {
+            margin: 3em 0;
+        }
+    }
+
+    .book-details {
+        border-radius: 0 0 2em 2em;
+        padding: 1em;
+    }
+}

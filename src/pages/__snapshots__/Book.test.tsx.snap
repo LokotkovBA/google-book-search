@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book should render empty book 1`] = `
+<article
+  class="book-page"
+  data-testid="book-page"
+>
+  <div
+    class="book-page__cover book-page__placeholder--cover"
+  />
+  <article
+    class="book-details"
+  >
+    <p
+      class="book-details__categories book-details__text placeholder"
+    />
+    <p
+      class="book-details__title book-details__text placeholder"
+    />
+    <p
+      class="book-details__authors book-details__text placeholder"
+    />
+    <p
+      class="book-details__description book-details__text placeholder"
+    />
+  </article>
+</article>
+`;
