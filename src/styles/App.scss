@@ -93,7 +93,7 @@
     fill: var(--text-color);
 }
 
-@media screen and (width < 900px) {
+@media screen and (width < 56.3rem) {
     .search {
         &__params {
             grid-template-columns: 1fr;
