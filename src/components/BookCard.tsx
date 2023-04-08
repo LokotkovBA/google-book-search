@@ -28,21 +28,22 @@ const BookCard: React.FC<BookCardProps> = ({ title, authors, categories, cover_s
     );
 };
 
-export default memo(BookCard, (prevProps, nextProps) => {
-    let skip = true;
-    const keys = Object.keys(prevProps) as ('title' | 'authors' | 'categories' | 'cover_src' | 'description' | 'id' | 'testid')[];
-    keys.forEach((key) => {
-        const nextValue = nextProps[key];
-        const prevValue = prevProps[key];
-        if (typeof prevValue !== 'object' && nextValue !== prevValue) {
-            skip = false;
-        } else if (typeof prevValue === 'object' && typeof nextValue === 'object') {
-            prevValue.forEach((arrayValue, arrayIndex) => {
-                if (arrayValue !== nextValue[arrayIndex]) {
-                    skip = false;
-                }
-            });
+function deepCompare<T extends object>(object1: T, object2: T): boolean {
+    const areEqual = true;
+    for (const key in object1) {
+        const value1 = object1[key];
+        const value2 = object2[key];
+        if (typeof value1 !== 'object' && typeof value2 !== 'object') {
+            if (value1 !== value2) {
+                return false;
+            }
+        } else if (value1 && value2 && !deepCompare(value1, value2)) {
+            return false;
         }
-    });
-    return skip;
+    }
+    return areEqual;
+}
+
+export default memo(BookCard, (prevProps, nextProps) => {
+    return deepCompare(prevProps, nextProps);
 });
